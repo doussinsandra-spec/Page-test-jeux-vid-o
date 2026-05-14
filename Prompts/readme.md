@@ -1,6 +1,20 @@
-# Prompt utilisé
+</> Markdown
+# Page test jeux vidéo
 
-Créer une page web en HTML/CSS pour présenter un jeu vidéo fantasy.
+## Projet de création d’une page web pour présenter un jeu vidéo.
+
+# L'objectif du challenge est :
+- installer les outils nécessaires
+- créer une page web simple
+- utiliser Git/GitHub
+- utiliser une IA
+- documenter mon travail
+
+# Le client à besoin d'un environnement Frontend opérationnel et d'une première page (générée via IA) pour itérer rapidement avec ses clients.
+
+# I
+# Prompt utilisé via Chat GPT :
+## Créer une page web en HTML/CSS pour présenter un jeu vidéo fantasy.
 La page doit contenir :
 - un header
 - une image principale
